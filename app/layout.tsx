@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Next.js + Notion Portfolio Template",
+  title: "Portfolio",
   description:
-    "Modern portfolio template built with Next.js and Notion API. Perfect for developers and creatives.",
+    "This is my Portfolio",
   keywords: [
     "Next.js",
     "Notion",
@@ -29,19 +29,19 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
   },
-  metadataBase: new URL("https://portfolio-nextjs-notion.vercel.app/"),
+  metadataBase: new URL("https://portfolio-william.vercel.app/"),
   openGraph: {
-    title: "Next.js + Notion Portfolio Template",
+    title: "This is my Portfolio ",
     description:
-      "Modern portfolio template built with Next.js and Notion API. Perfect for developers and creatives.",
-    url: "https://portfolio-nextjs-notion.vercel.app/",
+      "This is my Portfolio.",
+    url: "https://portfolio-william.vercel.app/",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "Next.js + Notion Portfolio Template",
+    title: "This is my Portfolio ",
     description:
-      "Modern portfolio template built with Next.js and Notion API. Perfect for developers and creatives.",
+      "This is my Portfolio.",
   },
 }
 
